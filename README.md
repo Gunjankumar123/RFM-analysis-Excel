@@ -74,5 +74,9 @@ Percentrank:
 =PERCENTRANK(data_range, value)
 VLOOKUP for Segment Assignment:
 =VLOOKUP(RFM_Score, Segment_Range, 2, FALSE)
+
 ## Conclusion
 This project successfully segments customers into actionable categories, providing NeighborMart with clear insights to improve marketing strategies, customer engagement, and business growth.
+
+
+![RFM Analysis Dashboard ](https://github.com/user-attachments/assets/f87daf17-9a6a-4d29-99b2-b9ed92caaa58)
